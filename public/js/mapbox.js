@@ -1,7 +1,7 @@
-/* eslint-disable */
+r/* eslint-disable */
 
 export const displayMap = (locations) => {
-  'pk.eyJ1IjoiZ3JlZ25zdHVmZiIsImEiOiJjbHR3N25vNmcxbWlxMmtwZWNrbnEyeGdkIn0.7Sq6fowXZ9SohbixkZd2Jg';
+  'depricate';
 
   const map = new mapboxgl.Map({
     container: 'map',
